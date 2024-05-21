@@ -1,0 +1,3 @@
+jon si joni
+ucup surucup
+Tambah lagi dengan append
